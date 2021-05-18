@@ -7,7 +7,7 @@
 
 ## platformio.ini – project configuration file
 ```ini
-[env:myenv]
+[env:my_build_env]
 platform = atmelavr
 framework = arduino
 
