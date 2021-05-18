@@ -2,7 +2,7 @@
     AnalogAndDigital
 
     Author: Laštůvka Lukáš
-    Library version: 1.0.0
+    Library version: 1.0.1
     Company: XTor
     GitHub: https://github.com/LastuvkaLukas/XTor_KY037
     (c) 2021

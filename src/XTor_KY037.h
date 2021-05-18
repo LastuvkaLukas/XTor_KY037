@@ -3,7 +3,7 @@
 
     Available for Arduino boards
     Author: Laštůvka Lukáš
-    Version: 1.0.0
+    Version: 1.0.1
     Company: XTor
     GitHub: https://github.com/LastuvkaLukas/XTor_KY037
     (c) 2021

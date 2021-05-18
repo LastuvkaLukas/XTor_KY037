@@ -6,10 +6,10 @@
         "type": "git",
         "url": "https://github.com/LastuvkaLukas/XTor_KY037.git"
     },
-    "version": "1.0.0",
+    "version": "1.0.1",
     "frameworks": "arduino",
     "platforms": ["atmelavr", "atmelmegaavr", "atmelsam"],
-    "authors": [{
+    "authors": {
         "name": "Laštůvka Lukáš"
-    }]
+    }
 }
