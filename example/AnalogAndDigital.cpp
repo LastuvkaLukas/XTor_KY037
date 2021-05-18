@@ -4,6 +4,7 @@
     Author: Laštůvka Lukáš
     Library version: 1.0.0
     Company: XTor
+    GitHub: https://github.com/LastuvkaLukas/XTor_KY037
     (c) 2021
 */
 
