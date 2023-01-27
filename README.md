@@ -26,4 +26,4 @@ lib_deps =
 ```
 
 ## Example
-https://github.com/LastuvkaLukas/XTor_KY037/tree/master/example
+https://github.com/LastuvkaLukas/XTor_KY037/tree/master/examples
